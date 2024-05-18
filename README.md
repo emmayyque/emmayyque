@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Fast Food App**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/emmayyque)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/emmayyque?tab=repositories)
 
 - 💬 Ask me about **REACT, dJango, Laravel**
 
