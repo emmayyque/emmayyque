@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  p > a {
-    margin: 0px 10px;
-  }
-</style>
-
 <h1 align="center">Hey 👋, I'm Muhammad Ali Khalil</h1>
 <h3 align="center">Passionate Web Developer specializing in creating dynamic, responsive websites with a focus on performance and user experience.</h3>
 
