@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on **Fast Food App**
+- 🔭 I’m currently working on project **Mobile Repairing for Automobiles**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/emmayyque?tab=repositories)
 
