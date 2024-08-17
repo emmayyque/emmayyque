@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/emmayyque" target="blank"><img src="https://img.shields.io/twitter/follow/emmayyque?logo=twitter&style=for-the-badge" alt="emmayyque" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🔭 I’m currently working on **Fast Food App**
 
