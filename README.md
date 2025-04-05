@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on project <a href="https://wahcourier.com">**Wah Couriers**</a>
+- 🔭 I’m currently working on project <a href="https://wahcourier.com" target="_blank">**Wah Couriers**</a>
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/emmayyque?tab=repositories)
 
