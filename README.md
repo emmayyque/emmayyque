@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on project **Mobile Repairing for Automobiles**
+- 🔭 I’m currently working on project **Wah Couriers**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/emmayyque?tab=repositories)
 
-- 💬 Ask me about **REACT, dJango, Laravel**
+- 💬 Ask me about **REACT, dJango, NodeJS**
 
 - 📫 How to reach me **muhammadalikhalil@gmail.com**
 
