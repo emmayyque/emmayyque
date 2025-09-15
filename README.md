@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/emmayyque" target="_blank"><img src="https://img.shields.io/twitter/follow/emmayyque?logo=twitter&style=for-the-badge" alt="emmayyque" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **REACT Native**
 
 - 🔭 I’m currently working on project <a href="https://thisordinarylife.vercel.app" target="_blank">**This Ordinary Life Podcast**</a>
 
