@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/emmayyque?tab=repositories)
 
-- 💬 Ask me about **REACT, dJango, NodeJS**
+- 💬 Ask me about **REACT, NodeJS**
 
 - 📫 How to reach me **muhammadalikhalil@gmail.com**
 
